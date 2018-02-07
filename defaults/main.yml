@@ -1,0 +1,2 @@
+---
+k8s_dashboard_conf: https://raw.githubusercontent.com/kubernetes/dashboard/master/src/deploy/recommended/kubernetes-dashboard.yaml
